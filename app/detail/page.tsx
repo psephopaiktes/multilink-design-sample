@@ -40,92 +40,104 @@ export default function Component() {
               />
             </div>
             <h2 className="mt-6 text-center text-2xl font-extrabold text-gray-900 dark:text-gray-100">
-              John Doe
+              ヒカキン
             </h2>
-            <p className="mt-2 text-center text-sm text-gray-600 dark:text-gray-400">
-              Bio: A short description about the user goes here.
+            <p className="mt-1 text-center text-sm text-gray-600 dark:text-gray-400">
+              @hikakin
             </p>
-            <div className="mt-2 flex justify-center space-x-2">
-              <span className="px-2 py-1 text-sm text-white bg-blue-500 rounded-full">
+            <ul className="mt-2 flex justify-center space-x-1">
+              <li className="px-2 py-1 text-xs rounded-full bg-gray-400 text-white dark:bg-gray-300 dark:text-gray-900">
                 YouTuber
-              </span>
-              <span className="px-2 py-1 text-sm text-white bg-red-500 rounded-full">
+              </li>
+              <li className="px-2 py-1 text-xs rounded-full bg-gray-400 text-white dark:bg-gray-300 dark:text-gray-900">
                 韓国
-              </span>
-            </div>
+              </li>
+              <li className="px-2 py-1 text-xs rounded-full bg-gray-400 text-white dark:bg-gray-300 dark:text-gray-900">
+                美容
+              </li>
+            </ul>
+            <p className="mt-3 text-center text-sm text-gray-800 dark:text-gray-200">
+              登録ありがとうございます。 ◆プロフィール◆
+              YouTubeにてHIKAKIN、HikakinTV、HikakinGames、HikakinBlogと
+              ４つのチャンネルを運営し、動画の総アクセス数は180億回を突破、
+              チャンネル登録者数は計2000万人以上、YouTubeタレント事務所uuum株式会社ファウンダー兼最高顧問。
+            </p>
           </div>
           <nav className="mt-2">
-            <ul className="flex flex-col items-center space-y-2 text-sm font-medium text-gray-500 dark:text-gray-400">
-              <li className="flex items-center space-x-2">
-                <a aria-label="Facebook profile" href="#">
-                  <svg
-                    className=" w-5 h-5"
-                    fill="none"
-                    height="24"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    viewBox="0 0 24 24"
+            <ul>
+              <li>
+                <a
+                  href="#"
+                  className="flex mt-1 bg-gray-200 dark:bg-gray-900 p-2 rounded mx-2"
+                >
+                  <img
+                    className="mr-2 rounded"
+                    src="http://www.google.com/s2/favicons?domain=x.com"
+                    alt=""
                     width="24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z" />
-                  </svg>
-                  <span>Facebook</span>
+                    height="24"
+                    alt="X"
+                  />
+                  Twitter: 3,000人
                 </a>
               </li>
-              <li className="flex items-center space-x-2">
-                <a aria-label="Twitter profile" href="#">
-                  <svg
-                    className=" w-5 h-5"
-                    fill="none"
-                    height="24"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    viewBox="0 0 24 24"
+              <li>
+                <a
+                  href="#"
+                  className="flex mt-1 bg-gray-200 dark:bg-gray-900 p-2 rounded mx-2"
+                >
+                  <img
+                    className="mr-2 rounded"
+                    src="http://www.google.com/s2/favicons?domain=youtube.com"
+                    alt=""
                     width="24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
-                  </svg>
-                  <span>Twitter</span>
+                    height="24"
+                    alt="youtube"
+                  />
+                  YouTube: 2,000人
                 </a>
               </li>
-              <li className="flex items-center space-x-2">
-                <a aria-label="Instagram profile" href="#">
-                  <svg
-                    className=" w-5 h-5"
-                    fill="none"
-                    height="24"
-                    stroke="currentColor"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    viewBox="0 0 24 24"
+              <li>
+                <a
+                  href="#"
+                  className="flex mt-1 bg-gray-200 dark:bg-gray-900 p-2 rounded mx-2"
+                >
+                  <img
+                    className="mr-2 rounded"
+                    src="http://www.google.com/s2/favicons?domain=instagram.com"
+                    alt=""
                     width="24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <rect height="20" rx="5" ry="5" width="20" x="2" y="2" />
-                    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" />
-                    <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
-                  </svg>
-                  <span>Instagram</span>
+                    height="24"
+                    alt="instagram"
+                  />
+                  Instagram: 5,000人
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#"
+                  className="flex mt-1 bg-gray-200 dark:bg-gray-900 p-2 rounded mx-2"
+                >
+                  <img
+                    className="mr-2 rounded"
+                    src="http://www.google.com/s2/favicons?domain=tiktok.com"
+                    alt=""
+                    width="24"
+                    height="24"
+                    alt="tiktok"
+                  />
+                  TikTok: 500人
                 </a>
               </li>
             </ul>
           </nav>
           <div className="mt-4 text-center text-xl text-gray-700 dark:text-gray-300">
-            依頼料:3000円
+            依頼料: 3000円
           </div>
           <div className="mt-4 flex justify-center">
             <Link
               href="#"
-              aria-label="Request"
-              className="px-4 py-2 text-sm font-medium text-white bg-blue-600 rounded-lg dark:bg-blue-400"
-              type="submit"
+              className="px-6 py-2 text-md font-medium text-white bg-gray-700 rounded-lg dark:bg-gray-300 dark:text-gray-900"
             >
               依頼する
             </Link>
