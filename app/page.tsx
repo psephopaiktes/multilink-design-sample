@@ -68,7 +68,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=x.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="X"
@@ -79,7 +78,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=youtube.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="youtube"
@@ -90,7 +88,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=instagram.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="instagram"
@@ -101,7 +98,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=tiktok.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="tiktok"
@@ -136,7 +132,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=x.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="X"
@@ -147,7 +142,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=youtube.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="youtube"
@@ -158,7 +152,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=instagram.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="instagram"
@@ -169,7 +162,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=tiktok.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="tiktok"
@@ -204,7 +196,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=x.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="X"
@@ -215,7 +206,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=youtube.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="youtube"
@@ -226,7 +216,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=instagram.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="instagram"
@@ -237,7 +226,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=tiktok.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="tiktok"
@@ -272,7 +260,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=x.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="X"
@@ -283,7 +270,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=youtube.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="youtube"
@@ -294,7 +280,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=instagram.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="instagram"
@@ -305,7 +290,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=tiktok.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="tiktok"
@@ -340,7 +324,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=x.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="X"
@@ -351,7 +334,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=youtube.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="youtube"
@@ -362,7 +344,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=instagram.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="instagram"
@@ -373,7 +354,6 @@ export default function Component() {
                   <img
                     className="mr-1 rounded"
                     src="http://www.google.com/s2/favicons?domain=tiktok.com"
-                    alt=""
                     width="24"
                     height="24"
                     alt="tiktok"
